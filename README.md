@@ -1,7 +1,7 @@
 # RioHotel - Sistema de Reservas
 
 ## 📷 Imagem de Demonstração
- (https://i.imgur.com/Y44RZfb.jpeg)
+  ![Inovative](https://i.imgur.com/Y44RZfb.jpeg)
 
 ## Tecnologias Utilizadas
 
