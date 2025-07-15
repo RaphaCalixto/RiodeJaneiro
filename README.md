@@ -1,5 +1,7 @@
 # RioHotel - Sistema de Reservas
 
+**[https://i.imgur.com/JaYr5eP.jpeg)**
+
 ## Tecnologias Utilizadas
 
 - **React** (Vite)
@@ -41,7 +43,7 @@
 ## Observações
 - O sistema de pagamento é apenas visual, não há integração real com gateways de pagamento.
 - Para trocar imagens, textos ou dados de contato, edite os arquivos em `src/locales/pt.ts` e `src/locales/en.ts`.
-- Para alterar a imagem de capa, edite o arquivo `src/components/HeroSection.tsx`.
+
 
 ---
 
