@@ -14,6 +14,8 @@
 - **Lucide React** (ícones)
 - **Context API** (gerenciamento de idioma)
 - **Vite** (build e dev server)
+  
+## Confira projeto em: https://riode-janeiro-ivory.vercel.app/
 
 ## Pré-requisitos
 
